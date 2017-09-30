@@ -1,4 +1,7 @@
 # BatteryCurrent
+[![GitHub release](https://img.shields.io/github/release/vkopitsa/BatteryCurrent.svg)]()
+![Download](https://img.shields.io/github/downloads/vkopitsa/BatteryCurrent/total.svg)
+[![license](https://img.shields.io/github/license/vkopitsa/BatteryCurrent.svg)]()
 
 ![BatteryCurrent](Resources/screenshot.png)
 
