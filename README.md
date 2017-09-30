@@ -1,5 +1,7 @@
 # BatteryCurrent
 
+![BatteryCurrent](Resources/screenshot.png)
+
 ## Download
 [v1.0 release](https://github.com/vkopitsa/BatteryCurrent/releases/download/v1.0/BatteryCurrent.app.zip).
 
